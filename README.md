@@ -1,4 +1,5 @@
 # DiscordBot
-Colaborators:
-Aidan Morgan
+Collaborators:
+Aidan Morgan, Emily Tsujikawa
+
 Discord Bot
